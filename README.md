@@ -63,7 +63,7 @@ Now:
 If you use the `--dump` option, the output is similar and pretty self explanatory. The only things to remember are:
 
   * [xxxx] is the index of each packet in the pcap file.
-  * > or < indicate the direction of the echange.
+  * &gt; or &lt; indicate the direction of the echange.
   * lines starting with 'buffer' indicate how the TCP packets since the last 'buffer' line have been
     reassembled and interpreted by the TLS parser. 
   * for example, a line like this:
