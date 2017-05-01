@@ -10,9 +10,7 @@ streams detected, and for each stream, determine what the "requests" are, what t
 are, and by using `scapy` TLS support, it will dump the content of the requests and responses,
 highlighting the amount of transferred ciphertext.
 
-This tool was used for the blog post you can read here:
-
-    http://rabexc.org/posts/guessing-tls-pages
+This tool was used for the blog post you can read here: [http://rabexc.org/posts/guessing-tls-pages](http://rabexc.org/posts/guessing-tls-pages).
 
 
 # Installation
